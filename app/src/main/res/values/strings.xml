@@ -15,4 +15,5 @@
     <string name="title_activity_confirmation">ConfirmationActivity</string>
     <string name="title_activity_authentication">AuthenticationActivity</string>
     <string name="title_activity_payment_processing">PaymentProcessingActivity</string>
+    <string name="title_activity_view_transactions">ViewTransactionsActivity</string>
 </resources>
