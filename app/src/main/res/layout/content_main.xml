@@ -37,4 +37,16 @@
         android:textAlignment="center"
         android:textSize="18sp" android:textStyle="bold"/>
 
+    <Button
+        android:onClick="viewTransactions"
+        android:id="@+id/btnGetAllTransactions"
+        android:layout_width="194dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnScanBarcode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:background="#ff9900"
+        android:textColor="#FFFFFF"
+        android:text="View Transactions"/>
+
 </RelativeLayout>
